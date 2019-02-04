@@ -15,11 +15,13 @@ body{
 
 }
 
-
+#main-container{
+    display: flex;
+}
 
 /*==============HEADER================*/
 
-header .beatles-title{
+header .beatlestitle{
     text-decoration: none;
     padding-top: 17px
     
@@ -29,7 +31,9 @@ header{
    background-color: #000; 
 }
 
-
+.logo1{
+    
+}
 
 
 header img{
@@ -41,6 +45,7 @@ header img{
 header h1{
     font-family: 'Oswald', sans-serif;
     color: #ff1a1a;
+    
     font-size: 4em;
     padding-top: 19px;
     margin: 0 auto;
@@ -49,9 +54,7 @@ header h1{
 }
 
 
-/*===== BAND IMAGES===========*/
-
-.beatles-container{
+.beatlescontainer{
     width: 100%;
     display: flex;
     
@@ -60,16 +63,14 @@ header h1{
     
 }
 
+/*==============   NAVIGATION ==================*/
 
-
-.the-band{
+.theband{
     display: flex;
     justify-content: space-around;
 }
 
-/*===========NAVBAR============*/
-
-.beatle-nav{
+.beatlenav{
     
     width: 100%;
     margin: 0 auto;
@@ -81,7 +82,7 @@ header h1{
 
 
 nav{
-    background: #ff1a1a;
+    background: #333;
 }
 
 nav ul{
@@ -107,15 +108,15 @@ nav a{
 nav a:hover{
     text-decoration: none;
     background-color: #000;
-    color: #fff;
+    color: #ff1a1a;
     font-size: 22px;
-    letter-spacing: 4px;
+    //letter-spacing: 4px;
     padding: 10px;
 }
 
 /*===========SECTION AREA (THE BAND).===============*/
 
-#band-pics img{
+#bandpics img{
     width: 100%;
     height: auto;
     border-radius: 2%;
@@ -254,7 +255,7 @@ footer{
 .footer-container{
     background-color: #000;
     width: 100%;
-    color: #fff;
+    color: #ff1a1a;
     font-family: 'Oswald', sans-serif;
     text-align: center;
     letter-spacing: 1.8px;
