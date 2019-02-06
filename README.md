@@ -19,6 +19,9 @@ git ## Milestone-one-Beatles
 ## Outcome..
 + I have demonstrated here that I have a good knowledge of HTML,CSS and Flexbox and enough background to move on to the interactive module including Javascript and jQuery.
 
+## User Experience (UX)
++ As this is a static website,it is just intended to be informative and visually appealing.The images,video and audio files are intended to inform the user as to who and what the band were/are.In the future I would like to expand the whole project with javascript,e.g an option to play a selected audio file on page load or to play the video on page load.I would like to add a mock shopping cart where the user has the option to be taken to an ecommerce page to buy various products,but as it is it is just a visual and audio representation.
+
 ## Acknologements..
 
 + All images on this project are from various third party image serving websites.
