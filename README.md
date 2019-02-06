@@ -1,5 +1,7 @@
 git ## Milestone-one-Beatles
 
+## link to live site on github  https://larryloughran.github.io/beatles-two/
+
 ### This is the first Milestone Poroject for Springboard Full Stack Web Development Course.
 
 ### This project is based on the technologies covered so far and to demonstrate an understanding of them.
