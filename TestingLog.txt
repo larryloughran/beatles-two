@@ -1,0 +1,37 @@
+A series of tests were conducted on this static website called the beatles.
+
+The website is intended to be visually pleasing and also informative to the user.It is based on the technologies and concepts used in the first part of the course.
+
+The first test was on the very basic html itself and each page was run through the W3C Markup Validation Service.
+
+MARKUP
+
+1. index.html returned a suggestion to add a heading to the #bandpics section so I added a h2 to this section.
+
+2. about.html returned 0 errors or bugs.
+
+3. media.html returned 0 errors or bugs.
+
+4. contact.html returned 0 errors or bugs.
+
+CSS
+
+1.style.css returned no errors.
+
+2. media.css returned one piece of commented out code. Action taken: Deleted.
+
+3.about.css returned same error as above and same action was taken.
+
+The rest of the project was then tested starting with load time which is above average.
+
+NAVIGATION
+
+The navigation links were tested to see if they went to the desired location and all links are working.The hover and transition effects all work perfectly on all pages  and the padding I added to the hovers don't have a negative effect on the overall responsiveness of the pages.
+
+
+MEDIA PAGE.
+
+Has a very good loading time and all the media files are showing in preview mode and working when asked to play.One issue I have is with the video file,it plays perfectly from the run command in cloud 9 and from internet explorer but not in google chrome.I'll admit I'm not 100% sure why but I suspect it's running the files locally from my computer and not from a server,but it's running fine also from the github page.
+
+Finally all aspects of the project,especially the responsivness was tested using chrome developer tools which simulates various devices from desktops to mobile phones and all design concepts were based on mobile first design.
+
