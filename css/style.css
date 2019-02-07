@@ -120,6 +120,16 @@ nav a:hover{
     border-radius: 2%;
 }
 
+#bandpics ,h2{
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 17px;
+    color: #ff1a1a;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 2px;
+    
+}
+
 .john{
     padding: 10px;
     
