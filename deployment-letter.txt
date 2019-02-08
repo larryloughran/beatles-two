@@ -1,0 +1,29 @@
+
+LETTER OF DEPLOYMENT TO CLIENT.
+
+
+
+Double L PRODUCTIONS,
+11235 Some Street,
+Some State,
+Somewhere.
+
+Dear Client.
+
+Further to our meeting and in reciept of the images and media files provided by you,we are delighted to inform you that the project requested is now ready to go live and can be sampled at https://larryloughran.github.io/beatles-two/
+
+We have tested this project across various platforms including Google Chrome and Internet Explorer for large desktops,ipad,ipad pro and a selection of different smartphones.
+
+The project loads very fast on all devices and responds to different screen sizes.
+
+We tested the html and css using w3c schools validators,the results of which are attached.
+
+We then tested the navbar links to make sure there were no broken links or bugs and they followed the paths specified.
+
+We have also included links to various social media sites and would be happy to assist when you want to set up these accounts.
+
+So far it is only a static website as requested but if you need any additional functionality we would be happy to facilitate.
+
+We thank you for choosing Double L Productions and look forward to working with you in the future.
+
+Regards.
